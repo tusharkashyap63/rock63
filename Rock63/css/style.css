@@ -72,6 +72,7 @@ body{
 	background: #B22222;
 }
 .container-2 img{
+        display: none;
 	object-fit: cover;
 	width: 100%;
 	height: 100%;
@@ -121,4 +122,6 @@ footer{
 	.logo{
 		display: inline-block;
 	}
+        .container-2 img{
+        display: inline-block;
 }
